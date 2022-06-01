@@ -15,15 +15,15 @@
 ### Contra exemplo:
 >Sites com vídeos que não possuem legendas pré-escritas e nem a opção de legendas automáticas, como por exemplo no site do G1:
 #### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.2c.png" width="95%" height="80%"/>
-##1.3. Adaptable
+## 1.3. Adaptable
 >Crie conteúdo que possa ser apresentado de diferentes maneiras (por exemplo, layout mais simples) sem perder informações ou estrutura.
 ### Bom Exemplo:
 >Um site que seja funcional e diversas plataformas, ou seja, não perca sua usabilidadde independente da plataforma, como o Youtube:
-#### <p align="left"><img src="" width="95%" height="80%"/>
+#### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.3a.png" width="95%" height="80%"/>
 #### No celular:
-#### <p align="left"><img src="" width="95%" height="80%"/>
+#### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.3a-celular.png" width="40%" height="80%"/>
 ### Contra Exemplo:
 >Um site que não é adaptavel para diferentes plataformas, como por exemplo o SIGA:
-#### <p align="left"><img src="" width="95%" height="80%"/>
+#### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.3c.png" width="95%" height="80%"/>
 #### No Celular:
-#### <p align="left"><img src="" width="95%" height="80%"/>
+#### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.3c-celular.png" width="40%" height="80%"/>
