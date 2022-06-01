@@ -27,3 +27,11 @@
 #### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.3c.png" width="95%" height="80%"/>
 #### No Celular:
 #### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/1.3c-celular.png" width="40%" height="80%"/>
+## 1.4. Distinguishable
+>Torne mais fácil para os usuários ver e ouvir conteúdos, incluindo separar o primeiro plano do plano de fundo.
+### Bom exemplo:
+>Um site com boas escolhas de cores, cores que se diferenciem na letra e nas cores de funda da página, como na página do duolingo, onde há uma excelente escolha de cores, deixando o usuário confortavel:
+#### <p align="left"><img src="" width="95%" height="80%"/>
+### Contra exemplo:
+>Paginas de site onde é dificil de ler o que está escrito, por conta da escolha de cores, ou quando há uma escolha de cores que não ficam bem juntas e que fazem com que o usuário do site não fique confortavel ao utilizar do site, como no site antigo da musikcity:
+#### <p align="left"><img src="" width="95%" height="80%"/>
