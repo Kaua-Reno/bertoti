@@ -42,8 +42,7 @@
 ## 2.1. Keyboard Accessible
 >Disponibilize todas as funcionalidades a partir de um teclado.
 ### Bom exemplo:
->
-#### <p align="left"><img src="" width="95%" height="80%"/>
+>Um bom exemplo de site que possui uma otima navegação a partir do teclado é o discord, pois além de ser possivel navegar pelo "tab" e pelas "setas", ele ainda tem um manual de atalhos que você pode ou não usar.
+#### <p align="left"><img src="https://github.com/Kaua-Reno/bertoti/blob/main/IHC/imagens/2.1a.png" width="95%" height="80%"/>
 ### Contra exemplo:
->
-#### <p align="left"><img src="" width="95%" height="80%"/>
+>Um contra exemplo, seria um site onde se é dificil navegar pelo teclado
